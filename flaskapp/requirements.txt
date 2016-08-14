@@ -1,0 +1,13 @@
+click==6.6
+Flask==0.11.1
+itsdangerous==0.24
+Jinja2==2.8
+MarkupSafe==0.23
+numpy==1.11.1
+pandas==0.18.1
+python-dateutil==2.5.3
+pytz==2016.6.1
+scikit-learn==0.17.1
+scipy==0.18.0
+six==1.10.0
+Werkzeug==0.11.10
