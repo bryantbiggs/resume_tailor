@@ -1,4 +1,6 @@
 pw.txt
+*.png
+*.log
 *.csv
 /data
 
