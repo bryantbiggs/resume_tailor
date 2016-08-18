@@ -1,4 +1,4 @@
-*.pkl
+/pkl
 *.txt
 *.png
 *.log
