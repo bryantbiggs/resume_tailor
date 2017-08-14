@@ -6,4 +6,14 @@
 [![Issue Count](https://codeclimate.com/github/bryantbiggs/resume_tailor/badges/issue_count.svg)](https://codeclimate.com/github/bryantbiggs/resume_tailor)
 [![Test Coverage](https://codeclimate.com/github/bryantbiggs/resume_tailor/badges/coverage.svg)](https://codeclimate.com/github/bryantbiggs/resume_tailor/coverage)
 
-Project 4 at Metis - NLP, MongoDB, AWS, unsupervised learning
+## Project Description
+
+- TODO: Description
+
+- TODO: Image
+
+---
+
+## Data Sources
+
+- TODO: Sources
