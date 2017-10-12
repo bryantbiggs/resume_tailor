@@ -1,9 +1,6 @@
 /pkl
-*.txt
-*.png
-*.log
-*.csv
 /data
+/credentials
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
